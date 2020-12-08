@@ -19,7 +19,7 @@ imposed by the requirement of differential privacy. Through the
 discussion of these results, we will also demonstrate some of the most
 novel and surprising connections between differential privacy and
 other areas of theoretical computer science, including machine
-learning theory, cryptography, convex geometry, and game theory.
+learning theory, optimization, game theory, and cryptography.
 
 
 ## Logistics
@@ -89,14 +89,9 @@ Percentage | Activity  |
 
 
 ## When Work is Due
-- All quizzes happen at the beginning of class on Thursday. 
+- All quizzes happen at the beginning of class on Wedsnesday. 
 
 - Projects and assignments are due on Sundays at 11:59pm. 
-
-- Reading reflections are due just before class on the day we have the
-scheduled discussion related to the readings. If there is no scheduled
-discussion, they are due the class after they are assigned (e.g. if
-assigned on Tuesday, they are due Thursday)
 
 
 ## Late Assignments

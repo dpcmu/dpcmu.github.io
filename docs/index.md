@@ -76,8 +76,8 @@ inequality. Your suggestions for ensuring that the class lives up to
 these values are encouraged and welcomed. In addition, if at any time
 you experience or witness anything in this class that challenges
 inclusion, is insensitive or othering, or reinforces biases or
-stereotypes, please report those experiences using this form
-(responses can be anonymous).
+stereotypes, please report those experiences (responses can be
+anonymous).
 
 
 ## Communication
@@ -104,10 +104,9 @@ sending emails.
 
 Percentage | Activity  | 
 ------|-----|
-10%| In-class Activity Participation|
-15%| Quizzes |
+20%| In-class Activity Participation|
 50%| Assignment 1-4, 12.5% each|
-25%| Final Project|
+30%| Final Project|
 
 
 ## When Work is Due

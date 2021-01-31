@@ -13,18 +13,17 @@ To study this question, we will introduce **differential privacy**, a
 framework of designing data analysis algorithms with strong,
 meaningful, and mathematically provable privacy guarantees. We will
 survey a set of algorithmic tools that allow us to privately perform a
-wide range of statistical analyses. Of course, privacy does not come
-for free, and we will also study some of the fundamental limitations
-imposed by the requirement of differential privacy. Through the
-discussion of these results, we will also demonstrate some of the most
-novel and surprising connections between differential privacy and
-other areas of theoretical computer science, including machine
-learning theory, optimization, game theory, and cryptography.
+wide range of statistical analyses and machine learning tasks. Of
+course, privacy does not come for free, and we will also study some of
+the fundamental limitations imposed by the requirement of differential
+privacy. We will also cover some novel and surprising connections
+between differential privacy and and machine learning, game theory,
+and cryptography.
 
 
 ## Logistics
 - **Course**: 17880  Algorithms for Private Data Analysis, Spring 2021
-- **Zoom Link**:  TBA
+- **Zoom Link**: See Canvas
 - **Time**: Spring 2021, 10:40AM -- 12:00PM, Mon & Weds
 
 
@@ -33,6 +32,29 @@ learning theory, optimization, game theory, and cryptography.
     - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
     - **Office hours**: Monday 4:00pm - 5:00pm ET
     - **Location**: see the announcement on Canvas
+
+## Prerequisites
+This is a theory-oriented course, intended for graduate students and
+advanced undergraduates. The (informal) prerequisites are mathematical
+maturity, ability to read and engage with original research, and
+familiarity with probability and introductory algorithms. Prior
+coursework in machine learning, algorithms, and probability will be
+helpful.
+
+## Textbooks
+There is no need buy any textbook for this course. We will provide
+lecture notes in this course. In addition, we will frequently use the
+book [The Algorithmic Foundations of Differential
+Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) by
+[Cynthia
+Dwork](https://www.microsoft.com/en-us/research/people/dwork/) and
+[Aaron Roth](https://www.cis.upenn.edu/~aaroth/) and [The Complexity
+of Differential
+Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
+by [Salil Vadhan](https://salil.seas.harvard.edu/).
+
+
+
 
 ## Diversity Statement
 It is our goal that students from all diverse backgrounds and

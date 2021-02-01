@@ -1,9 +1,9 @@
 # Schedule
 ## Lecture Schedule (Tentative)
 
-Week  |Lecture   |Topic  |Readings  |Slides |
+Week  |Lecture   |Topic  |Readings  |Slides & Lecture Notes |
 :------:|:-----:|-------------------------|----------|:------:
-|**Week 1** | Lecture 1 | **Course Overview** | | |
+|**Week 1** | Lecture 1 | **Course Overview** | | [Slides](../slides/intro.pdf) |
 |           |           |**Definitions and Basic Techniques ** | | |
 |**Week 1** | Lecture 2 | **Reconstruction Attacks** | | |
 |**Week 2** | Lecture 3 | **Definition of Differential Privacy** <br> **Laplace Mechanism** | | |

@@ -30,7 +30,7 @@ and cryptography.
 ## Instructor
   - [Steven Wu](https://zstevenwu.com)
     - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
-    - **Office hours**: Monday 4:00pm - 5:00pm ET
+    - **Office hours**: Friday 9:00pm - 10:00am ET
     - **Location**: see the announcement on Canvas
 
 ## Prerequisites

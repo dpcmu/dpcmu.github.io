@@ -31,7 +31,7 @@ and cryptography.
   - [Steven Wu](https://zstevenwu.com)
     - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
     - **Office hours**: Friday 9:00pm - 10:00am ET
-    - **Location**: see the announcement on Canvas
+    - **Location**: See Canvas or email the instructor to schedule a time
 
 ## Prerequisites
 This is a theory-oriented course, intended for graduate students and

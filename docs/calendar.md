@@ -7,8 +7,8 @@ Week  |Lecture   |Topic  |Readings  |Slides <br> Notes |
 |           |           |**Definitions and Basic Techniques ** | | |
 |**Week 1** | Lecture 2 | **Reconstruction Attacks (Part 1)** | [Reading](https://queue.acm.org/detail.cfm?id=3295691)    |  [Slides](../slides/lecture2.pdf) <br> [Notes](../notes/reconstruction.pdf)
 |**Week 2** | Lecture 3 | **Reconstruction Attacks (Part 2)** | [Reading](https://differentialprivacy.org/diffix-attack/) |  [Slides](../slides/lecture3.pdf) <br> [Notes](../notes/reconstruction.pdf)
-|**Week 2** | Lecture 4 | **Definitoin of Differential Privacy** <br> **Laplace Mechanism** | [Reading/Video](https://www.youtube.com/watch?v=FE9ko2wtyeQ)  | |
-|**Week 3** | Lecture 5 | **Exponential Mechanism**  | | |
+|**Week 2** | Lecture 4 | **Definitoin of Differential Privacy** <br> **Randomized Response; Laplace Mechanism** | [Reading/Video](https://www.youtube.com/watch?v=FE9ko2wtyeQ)  | [Slides](../slides/lecture4.pdf)|
+|**Week 3** | Lecture 5 | **Properties of Differential Privacy** <br> **Composition; Post-Processing; Group Privacy** | | [Slides](../slides/lecture5.pdf) |
 |**Week 3** | Lecture 6 | **AboveThreshold <br> Sparse Vector Technique** | | |
 |           |           |**Private Synthetic Data** | | |
 |**Week 4** | Lecture 7 | **Multiplicative Weights (MW) <br> Zero-sum game view** | | |
@@ -30,8 +30,8 @@ Week  |Lecture   |Topic  |Readings  |Slides <br> Notes |
 |**Week 10** | Lecture 20 | **Adaptive Data Analysis** <br> **Algorithmic Stability**   | | |
 
 
-Acknowledgement: Some of course materials are taken from the courses
-taught by Gautam Kamath, Jonathan Ullman, and Adam Smith.
+Acknowledgement: Some of course materials are based on those developed
+by Gautam Kamath, Jonathan Ullman, and Adam Smith.
 
 ## Deadlines
 TBA

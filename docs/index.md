@@ -110,8 +110,6 @@ Percentage | Activity  |
 
 
 ## When Work is Due
-- All quizzes happen at the beginning of class on Wedsnesday. 
-
 - Projects and assignments are due on Sundays at 11:59pm. 
 
 

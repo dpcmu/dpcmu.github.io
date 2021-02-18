@@ -3,31 +3,31 @@
 
 Week  |Lecture   |Topic  |Readings  |Slides <br> Notes |
 :------:|:-----:|-------------------------|----------|:------:
-|**Week 1** | Lecture 1 | **Course Overview** | | [Slides](../slides/intro.pdf) |
-|           |           |**Definitions and Basic Techniques ** | | |
-|**Week 1** | Lecture 2 | **Reconstruction Attacks (Part 1)** | [Reading](https://queue.acm.org/detail.cfm?id=3295691)    |  [Slides](../slides/lecture2.pdf) <br> [Notes](../notes/reconstruction.pdf)
-|**Week 2** | Lecture 3 | **Reconstruction Attacks (Part 2)** | [Reading](https://differentialprivacy.org/diffix-attack/) |  [Slides](../slides/lecture3.pdf) <br> [Notes](../notes/reconstruction.pdf)
-|**Week 2** | Lecture 4 | **Definitoin of Differential Privacy** <br> **Randomized Response; Laplace Mechanism** | [Reading/Video](https://www.youtube.com/watch?v=FE9ko2wtyeQ)  | [Slides](../slides/lecture4.pdf)|
-|**Week 3** | Lecture 5 | **Properties of Differential Privacy** <br> **Composition; Post-Processing; Group Privacy** | | [Slides](../slides/lecture5.pdf) |
-|**Week 3** | Lecture 6 | **AboveThreshold <br> Sparse Vector Technique** | | |
-|           |           |**Private Synthetic Data** | | |
-|**Week 4** | Lecture 7 | **Multiplicative Weights (MW) <br> Zero-sum game view** | | |
-|**Week 4** | Lecture 8 | **MW with Exponential Mechanism (MWEM)** | | |
-|**Week 5** | Lecture 9 | **Private GAN** <br> **(Online) Private Multiplicative Weights** | | |
-|           |           |**Private (Non)-Convex Optimization** | | |
-|**Week 5** | Lecture 10 | **(Strong) Convexity, smoothness** <br> **Output/Objective Perturbation** | | |
-|**Week 6** | Lecture 11 | **Private Gradient Descent** (Part 1) | | |
-|**Week 6** | Lecture 12 | **Private Gradient Descent** (Part 2) | | |
-|**Week 7** | Lecture 13 | **Private Deep Learning** (Part 1)    | | |
-|**Week 7** | Lecture 14 | **Private Deep Learning** (Part 2) | | |
-|           |            | **Practical Deployments of DP**    | | |
-|**Week 8** | Lecture 15 | **Local Differential Privacy**     | | |
-|**Week 8** | Lecture 16 | **Shuffling**                      | | |
-|**Week 9** | Lecture 17 | **US Census Deployment 2020**      | | |
-|**Week 9** | Lecture 18 | **Buffer**                         | | |
-|           |            | **Connections and Applications**   | | |
-|**Week 10** | Lecture 19 | **Online Learning** <br> **Follow-the-perturbed-leader via DP**   | | |
-|**Week 10** | Lecture 20 | **Adaptive Data Analysis** <br> **Algorithmic Stability**   | | |
+| **Week 1**  | Lecture 1  | **Course Overview**                                                                         |                                                              | [Slides](../slides/intro.pdf)                                              |
+|             |            | **Definitions and Basic Techniques **                                                       |                                                              |                                                                            |
+| **Week 1**  | Lecture 2  | **Reconstruction Attacks (Part 1)**                                                         | [Reading](https://queue.acm.org/detail.cfm?id=3295691)       | [Slides](../slides/lecture2.pdf) <br> [Notes](../notes/reconstruction.pdf) |
+| **Week 2**  | Lecture 3  | **Reconstruction Attacks (Part 2)**                                                         | [Reading](https://differentialprivacy.org/diffix-attack/)    | [Slides](../slides/lecture3.pdf) <br> [Notes](../notes/reconstruction.pdf) |
+| **Week 2**  | Lecture 4  | **Definitoin of Differential Privacy** <br> **Randomized Response; Laplace Mechanism**      | [Reading/Video](https://www.youtube.com/watch?v=FE9ko2wtyeQ) | [Slides](../slides/lecture4.pdf)                                           |
+| **Week 3**  | Lecture 5  | **Properties of Differential Privacy** <br> **Composition; Post-Processing; Group Privacy** |                                                              | [Slides](../slides/lecture5.pdf)                                           |
+| **Week 3**  | Lecture 6  | **Exponential mechanism <br> selection problem**                                            |                                                              | [Slides](../slides/lecture6.pdf )                                          |
+|             |            | **Private Synthetic Data**                                                                  |                                                              |                                                                            |
+| **Week 4**  | Lecture 7  | **Multiplicative Weights (MW) <br> Zero-sum game view**                                     |                                                              |                                                                            |
+| **Week 4**  | Lecture 8  | **MW with Exponential Mechanism (MWEM)**                                                    |                                                              |                                                                            |
+| **Week 5**  | Lecture 9  | **Private GAN** <br> **(Online) Private Multiplicative Weights**                            |                                                              |                                                                            |
+|             |            | **Private (Non)-Convex Optimization**                                                       |                                                              |                                                                            |
+| **Week 5**  | Lecture 10 | **(Strong) Convexity, smoothness** <br> **Output/Objective Perturbation**                   |                                                              |                                                                            |
+| **Week 6**  | Lecture 11 | **Private Gradient Descent** (Part 1)                                                       |                                                              |                                                                            |
+| **Week 6**  | Lecture 12 | **Private Gradient Descent** (Part 2)                                                       |                                                              |                                                                            |
+| **Week 7**  | Lecture 13 | **Private Deep Learning** (Part 1)                                                          |                                                              |                                                                            |
+| **Week 7**  | Lecture 14 | **Private Deep Learning** (Part 2)                                                          |                                                              |                                                                            |
+|             |            | **Practical Deployments of DP**                                                             |                                                              |                                                                            |
+| **Week 8**  | Lecture 15 | **Local Differential Privacy**                                                              |                                                              |                                                                            |
+| **Week 8**  | Lecture 16 | **Shuffling**                                                                               |                                                              |                                                                            |
+| **Week 9**  | Lecture 17 | **US Census Deployment 2020**                                                               |                                                              |                                                                            |
+| **Week 9**  | Lecture 18 | **Buffer**                                                                                  |                                                              |                                                                            |
+|             |            | **Connections and Applications**                                                            |                                                              |                                                                            |
+| **Week 10** | Lecture 19 | **Online Learning** <br> **Follow-the-perturbed-leader via DP**                             |                                                              |                                                                            |
+| **Week 10** | Lecture 20 | **Adaptive Data Analysis** <br> **Algorithmic Stability**                                   |                                                              |                                                                            |
 
 
 Acknowledgement: Some of course materials are based on those developed

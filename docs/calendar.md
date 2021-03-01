@@ -10,10 +10,9 @@ Week  |Lecture   |Topic  |Readings  |Slides <br> Notes |
 | **Week 2**  | Lecture 4  | **Definitoin of Differential Privacy** <br> **Randomized Response; Laplace Mechanism**      | [Reading/Video](https://www.youtube.com/watch?v=FE9ko2wtyeQ) | [Slides](../slides/lecture4.pdf) <br> [Notes](../notes/lecture4.pdf)       |
 | **Week 3**  | Lecture 5  | **Properties of Differential Privacy** <br> **Composition; Post-Processing; Group Privacy** |                                                              | [Slides](../slides/lecture5.pdf) <br> [Notes](../notes/lecture5.pdf)       |
 | **Week 3**  | Lecture 6  | **Selection problem (part 1) <br> Exponential Mech.**                                       |                                                              | [Slides](../slides/lecture6.pdf) <br> [Notes](../notes/lecture6.pdf)       |
-| **Week 4**  | Lecture 7  | **Selection problem (part 2) <br> Report noisy max**                                        |                                                              | [Slides](../slides/lecture7.pdf)                                           |
-| **Week 4**  | Lecture 8  | **DP and Mechanism Design**                                                                 |                                                              | [Slides](../slides/lecture8.pdf)                                           |
-|             |            | **Private Synthetic Data**                                                                  |                                                              |                                                                            |
-| **Week 5**  | Lecture 9  | **Private GAN** <br> **(Online) Private Multiplicative Weights**                            |                                                              |                                                                            |
+| **Week 4**  | Lecture 7  | **Selection problem (part 2) <br> Report noisy max**                                        |                                                              | [Slides](../slides/lecture7.pdf) <br> [Notes](../notes/lecture7.pdf)       |
+| **Week 4**  | Lecture 8  | **DP and Mechanism Design**                                                                 |                                                              | [Slides](../slides/lecture8.pdf) <br> [Notes](../notes/lecture8.pdf)       |
+| **Week 5**  | Lecture 9  | **Binary Tree Mechanism**                                                                   |                                                              |                                                                            |
 |             |            | **Private (Non)-Convex Optimization**                                                       |                                                              |                                                                            |
 | **Week 5**  | Lecture 10 | **(Strong) Convexity, smoothness** <br> **Output/Objective Perturbation**                   |                                                              |                                                                            |
 | **Week 6**  | Lecture 11 | **Private Gradient Descent** (Part 1)                                                       |                                                              |                                                                            |
@@ -31,7 +30,7 @@ Week  |Lecture   |Topic  |Readings  |Slides <br> Notes |
 
 
 Acknowledgement: Some of course materials are based on those developed
-by Gautam Kamath, Jonathan Ullman, and Adam Smith.
+by Gautam Kamath, Jonathan Ullman, Adam Smith, and Aaron Roth.
 
 ## Deadlines
 TBA
